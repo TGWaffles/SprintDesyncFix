@@ -1,0 +1,8 @@
+[{
+  "modid": "SprintDesyncFix",
+  "name": "Sprint Desync Fix",
+  "description": "Fixes the vanilla Minecraft desync bug after attacking an entity while sprinting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["TGWaffles"]
+}]
